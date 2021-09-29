@@ -30,7 +30,7 @@ This example shows you how to build a simple semantic search app powered by [Jin
 
 ## 🐍 Build the app with Python
 
-These instructions explain how to build the example yourself and deploy it with Python. If you want to skip the building steps and just run the app, check out the  [Docker section](#---deploy-the-prebuild-application-using-docker) below.
+These instructions explain how to build the example yourself and deploy it with Python. 
 
 
 ### 🗝️ Requirements
